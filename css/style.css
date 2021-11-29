@@ -41,8 +41,6 @@
     transition: all 0.2s linear 0s;
 }
 
-body {}
-
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;
@@ -1017,8 +1015,6 @@ header .fa-bars {
     /* text-align: center; */
 }
 
-.contact {}
-
 .contact .container {
     padding: 1rem 7%;
     width: 100%;
@@ -1052,8 +1048,6 @@ header .fa-bars {
     font-size: 16px;
     margin-bottom: 0;
 }
-
-.footer {}
 
 .footer .container {
     padding: 1rem 7%;
